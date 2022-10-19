@@ -5,13 +5,13 @@ Self-Contained can be run without any other delays.
 Portable requires .NET 6.0 Runtime.
 
 # Usage
-- Left click on ship to mark them as owned.
-- Right click to mark them as unowned.
-- Ctrl Left Click to mark as owned, plus max stars.
-- Shift Left Click to try to retrofit ships.
+- Left Click on ship to mark them as owned.
+- Right Click to mark them as unowned.
+- Ctrl+Left Click to mark as owned, plus max stars.
+- Shift+Left Click to try to retrofit ships.
 - Ctrl+Shift Left Click, mark as owned, try to retrofit, max stars.
 - Left Click on stars to increase by one.
-- Right click on stars to decrease by one.
+- Right Click on stars to decrease by one.
 
 Search terms available: owned, missing, lb, retrofit, retrofitted
 
