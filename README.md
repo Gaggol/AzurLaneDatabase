@@ -28,6 +28,10 @@ Example: Köln can be searched as either Köln, or Koln.
 
 Required images for characters available [here](https://azurlane.koumakan.jp/wiki/List_of_Ships_by_Image).
 
+File extension required is .png
+
+Place images in /Resources/chars/
+
 File name need to fit database name, _Retrofit is appended for retrofits.
 
 Example: Abukuma.png, Abukuma_Retrofit.png
