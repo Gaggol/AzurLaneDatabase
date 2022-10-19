@@ -12,6 +12,7 @@ Portable requires .NET 6.0 Runtime.
 - Ctrl+Shift+Left Click, mark as owned, try to retrofit, max stars.
 - Left Click on stars to increase by one.
 - Right Click on stars to decrease by one.
+- Ctrl+S to save.
 
 Search terms available: owned, missing, lb, retrofit, retrofitted
 
