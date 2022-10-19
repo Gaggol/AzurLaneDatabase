@@ -6,7 +6,11 @@ Portable requires .NET 6.0 Runtime.
 
 # Development
 
-Required images for characters available at https://azurlane.koumakan.jp/wiki/List_of_Ships_by_Image
+Required images for characters available [here](https://azurlane.koumakan.jp/wiki/List_of_Ships_by_Image).
+
+File name need to fit database name, _Retrofit is appended for retrofits.
+
+Example: Abukuma.png, Abukuma_Retrofit.png
 
 Database pre-built with only Normal & Retrofitted ships. Bulins not included.
 
