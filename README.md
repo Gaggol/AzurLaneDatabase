@@ -1,5 +1,8 @@
 # Download
-Go to releases, pick between self-contained Win x64 or Portable, which requires .NET 6.0 Runtime
+Go to [releases](https://github.com/Gaggol/AzurLaneDatabase/releases), pick either self-contained Win x64 or Portable.
+
+Self-Contained can be run without any other delays.
+Portable requires .NET 6.0 Runtime.
 
 # Development
 
