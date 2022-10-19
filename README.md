@@ -9,7 +9,7 @@ Portable requires .NET 6.0 Runtime.
 - Right Click to mark them as unowned.
 - Ctrl+Left Click to mark as owned, plus max stars.
 - Shift+Left Click to try to retrofit ships.
-- Ctrl+Shift Left Click, mark as owned, try to retrofit, max stars.
+- Ctrl+Shift+Left Click, mark as owned, try to retrofit, max stars.
 - Left Click on stars to increase by one.
 - Right Click on stars to decrease by one.
 
